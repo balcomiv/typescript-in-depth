@@ -26,3 +26,7 @@ via https://app.pluralsight.com/course-player?clipId=9a10ee00-3636-41aa-8aad-f30
 ### Prettier
 
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode#prettier-settings
+
+## Notes
+
+![Getting Started](assets\var-let-const.png)
