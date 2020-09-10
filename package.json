@@ -8,5 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
 }
