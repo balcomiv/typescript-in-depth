@@ -11,6 +11,8 @@ function getTitles(bookProperty: string | boolean): string[] {
   return [bookArg];
 }
 
-//  Running func for quokka.js
+//  =========================================
+//      Function tests for quokka.js
+//  =========================================
 getTitles('name'); // ?
 getTitles(true); // ?

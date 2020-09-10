@@ -9,5 +9,7 @@ function scopeTest() {
   // console.log(bar); //  error!!
 }
 
-//  Running func for Quokka.js
+//  =========================================
+//      Function tests for quokka.js
+//  =========================================
 scopeTest();
