@@ -21,7 +21,7 @@ via https://app.pluralsight.com/course-player?clipId=9a10ee00-3636-41aa-8aad-f30
 
 ### Pluralsight Course
 
-- https://app.pluralsight.com/courses/34a82651-0958-43a7-8f93-0bb9949ce6c2/table-of-contents
+- https://app.pluralsight.com/player?course=typescript-in-depth&author=brice-wilson&name=typescript-in-depth-m8&clip=4&mode=live
 
 ### Prettier
 
