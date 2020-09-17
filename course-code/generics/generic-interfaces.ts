@@ -1,15 +1,17 @@
-interface Book {}
+namespace GenericInterfaces {
+  interface Book {}
 
-interface Inventory<T> {
-  getNewestItem: () => T;
+  interface Inventory<T> {
+    getNewestItem: () => T;
 
-  addItem: (newItem: T) => void;
+    addItem: (newItem: T) => void;
 
-  getAllItems: () => Array<T>;
+    getAllItems: () => Array<T>;
+  }
+
+  //  let bookInventory: Inventory<Book>;
+
+  //  Populate the inventory here...
+
+  // const allBooks: Array<Book> = bookInventory.getAllItems();
 }
-
-//  let bookInventory: Inventory<Book>;
-
-//  Populate the inventory here...
-
-// const allBooks: Array<Book> = bookInventory.getAllItems();
