@@ -3,9 +3,9 @@ function logAndReturn<T>(thing: T): T {
   return thing;
 }
 
-//  =========================================
-//    Function tests for quokka.js
-//  =========================================
+/**
+ * Tests for Quokka
+ */
 interface Magazine {
   title: string;
 }
